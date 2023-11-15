@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Soroush Hosseini
-- 👀 I’m interested in FrontEnd developing
-- 🌱 I’m currently learning React&Redux
-- 💞️ I’m looking to collaborate on some company as FrontEnd developer
+- 👀 I’m interested in software development with C# and Microsoft technology
+- 🌱 I’m currently learning EF Core
 - 📫 How to reach me: Hosseini.soroush2000@gmail.com
 
 <!---
